@@ -1,4 +1,4 @@
-# skills
+BizShuk:main# skills
 
 The CLI for the open agent skills ecosystem.
 
